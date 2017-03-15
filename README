@@ -3,7 +3,7 @@ To build the code do
 Option 1:
 
   cd build
-  cmake ../src/
+  cmake ..
   make
 
 Option 2:
